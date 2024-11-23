@@ -1,6 +1,6 @@
 def very_friendly_greeting(a: str):
     for i in range(5):
-        print("Hello,", a)
+        print("Hello python,", a)
 
 
 def main():
